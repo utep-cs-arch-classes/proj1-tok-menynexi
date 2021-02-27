@@ -1,5 +1,5 @@
 Lab Project 1: Building a Tokenizer
-===================================
+=======================================
 A related demo program is in directory "sortArgDemo".  All encouraged
 to thorougly understand it before attempting this project.
 
