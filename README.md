@@ -1,6 +1,6 @@
 Lab Project 1: Building a Tokenizer
 =======================================
-A related demo program is in directory "sortArgDemo".  All encouraged
+a related demo program is in directory "sortArgDemo".  All encouraged
 to thorougly understand it before attempting this project.
 
 All work should be your own work. Please see the course website and syllabus for full details on the course's policy on academic honesty.
